@@ -1,4 +1,4 @@
-package assignment3;
+package selenium.week2.marathon;
 
 import java.time.Duration;
 
